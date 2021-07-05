@@ -1,0 +1,7 @@
+numpy
+jupyter lab
+tensorflow
+keras
+h5py
+python
+imutils
